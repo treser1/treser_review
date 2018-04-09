@@ -5,10 +5,14 @@
 *.log
 
 ### Eclipse ###
+.metadata
 
 ### Eclipse Patch ###
 # Eclipse Core		
 .project
+
+###  Mac OS  ###
+.DS_Store
 
 # JDT-specific (Eclipse Java Development Tools)		
 .classpath
